@@ -2,9 +2,14 @@
 #include <string>
 // Roblox Version = version-2b1721d47abf49aa
 // FFlagList RVA: 0x7CE13D8
-// Total flags: 13121
+// Total flags: 13120
 // Discord: https://discord.gg/jeVjKCtMD5
-//NEBULA OFFSET DUMP
+//███╗   ██╗███████╗██████╗ ██╗   ██╗██╗      █████╗ 
+//████╗  ██║██╔════╝██╔══██╗██║   ██║██║     ██╔══██╗
+//██╔██╗ ██║█████╗  ██████╔╝██║   ██║██║     ███████║
+//██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║██║     ██╔══██║
+//██║ ╚████║███████╗██████╔╝╚██████╔╝███████╗██║  ██║
+//╚═╝  ╚═══╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
 
 
@@ -12105,7 +12110,6 @@ namespace FFlags
 	uintptr_t UserPlayerScriptsCCLIntegrationA = 0x76D70DC;
 	uintptr_t UserPlayerScriptsCCLIntegrationB = 0x76D70DD;
 	uintptr_t UserPlayerScriptsCCLIntegrationC = 0x76D70DE;
-	uintptr_t UserPlayerScriptsCCLIntegrationD = 0x76D70DF;
 	uintptr_t UserPlayerScriptsCTMDirectPlayerData = 0x76D91E8;
 	uintptr_t UserPlayerScriptsCameraInputNoBindables = 0x76D90D0;
 	uintptr_t UserPlayerScriptsCameraInputUsesIAS = 0x76D8FB8;
